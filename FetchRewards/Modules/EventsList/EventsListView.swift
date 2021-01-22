@@ -14,7 +14,7 @@
 ///For the same reason I did not use third-party frameworks (FYI I know how to use cocoa pods for example).
 ///And I used the opportunity to improve my skills.
 ///
-///In contrast, I wrote tests quite often and a lot (mostly using).
+///In contrast, I wrote tests quite often and a lot (mostly using Quick & Nimble frameworks).
 ///If this is critical, I can write tests, but it will take several hours to cover the project well. And I decided not to write them in this case.
 ///
 ///I also used the MVVM for practice (since I worked mainly with VIPER).
